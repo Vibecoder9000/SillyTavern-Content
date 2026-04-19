@@ -409,5 +409,13 @@
         "name": "Message Collapser",
         "description": "Automatically collapse long messages in chat with configurable threshold. Accessibility-friendly UI enhancement.",
         "url": "https://github.com/Crystaria/SillyTavern-MessageCollapser"
+    },
+    {
+        "id": "SillyTavern-WI-FunctionCall",
+        "type": "extension",
+        "name": "World Info Function Call",
+        "description": "Enables your model to activate World Info / lorebook entries on-demand via function calling, during text generation.",
+        "url": "https://github.com/Culpeo/SillyTavern-WI-FunctionCall",
+        "tool": true
     }
 ]
